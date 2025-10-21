@@ -1,5 +1,7 @@
 # CSinParallel Code
 
+# Woooooooooooo I'M EDITING A README FILE LETS GOOOOOOOO
+
 CSinParallel is an NSF-funded project to support instructors seeking to add Parallel and Distributed Computing (PDC) to their undergraduate computer science courses.  
 
 This public repository contains some of the code examples from the teaching modules that we use the most in our courses at various levels of the curriculum. We will be attempting to add to this repository over time.
